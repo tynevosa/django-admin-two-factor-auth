@@ -13,7 +13,7 @@
 
 <br />
 
-![Django Admin Two-Factor Auth](https://raw.githubusercontent.com/imankarimi/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_5.png)
+![Django Admin Two-Factor Auth](https://raw.githubusercontent.com/tynevosa/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_5.png)
 
 <br />
 
@@ -101,23 +101,23 @@ $ python manage.py runserver # default port 8000
 
 * **User List:** the users who have enabled two-factor auth
 
-![Django Admin Two-Factor Auth: User List](https://raw.githubusercontent.com/imankarimi/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_4.png)
+![Django Admin Two-Factor Auth: User List](https://raw.githubusercontent.com/tynevosa/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_4.png)
 
 <br />
   
 * **Add New User:**
 
-![Django Admin Two-Factor Auth: Add New User](https://raw.githubusercontent.com/imankarimi/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_2.png)
+![Django Admin Two-Factor Auth: Add New User](https://raw.githubusercontent.com/tynevosa/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_2.png)
 
 <br />
 
 * **Scan QRCode and enter the valid code:**
 
-![Django Admin Two-Factor Auth: Scan QRCode](https://raw.githubusercontent.com/imankarimi/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_3.png)
+![Django Admin Two-Factor Auth: Scan QRCode](https://raw.githubusercontent.com/tynevosa/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_3.png)
 
 <br />
 
 * **Logout and login again with [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en):**
 
-![Django Admin Two-Factor Auth: Login with Code](https://raw.githubusercontent.com/imankarimi/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_5.png)
+![Django Admin Two-Factor Auth: Login with Code](https://raw.githubusercontent.com/tynevosa/django-admin-two-factor-auth/main/screenshoots/django_admin_two_factor_auth_5.png)
 
